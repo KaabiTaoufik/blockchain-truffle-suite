@@ -9,6 +9,11 @@
     <br> 
 </p>
 
+## 📕🖋 Authors
+- Taoufik Kaabi
+- Ala Ben Hammouda
+- Azer Chabbar
+
 ## 📝 Table of Contents
 
 - [Introduction](#introduction)
@@ -390,5 +395,13 @@ npm run dev
 You'll be met with this web app:
 ![Alt Text](/screenshots/web3%20web.png)
 
+
 Also you should be connected:
+
+
+
 ![Alt Text](/screenshots/account%20connected.png)
+
+
+- click adopt:
+![Alt Text](/screenshots/try%20adopt.png)
