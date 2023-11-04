@@ -405,3 +405,6 @@ Also you should be connected:
 
 - click adopt:
 ![Alt Text](/screenshots/try%20adopt.png)
+
+## Demo Video:
+[![Watch the video](https://img.youtube.com/vi/wgEfVHjhS5Q/hqdefault.jpg)](https://www.youtube.com/embed/wgEfVHjhS5Q)
